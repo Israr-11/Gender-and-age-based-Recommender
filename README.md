@@ -32,23 +32,23 @@ The script processes each frame to detect the gender and age of the individual i
 Based on the detected attributes, the script displays the appropriate advertisement.
 
 ## Requirements
-Python 3.x
-OpenCV
-TensorFlow / Keras
-NumPy
-Pandas
-Matplotlib
+1. Python 3.x
+2. OpenCV
+3. TensorFlow / Keras
+4. NumPy
+6. Pandas
+7. Matplotlib
 
 ## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/gender-age-recommender.git
-cd gender-age-recommender
+![1](https://github.com/Israr-11/Gender-and-age-based-Recommender/assets/91403838/3cd2a314-4af5-4ed8-af61-a61a976c68b0)
 
 2. Install the required packages:
 
-pip install -r requirements.txt
+![2](https://github.com/Israr-11/Gender-and-age-based-Recommender/assets/91403838/bf548b55-928e-450d-ab3c-de31de9aefcd)
+
 
 3. Place your dataset in the specified directory.
 
@@ -56,7 +56,8 @@ pip install -r requirements.txt
 
 5. Run the real-time detection script to start the application:
 
-python detection.py
+![3](https://github.com/Israr-11/Gender-and-age-based-Recommender/assets/91403838/9e730a14-68bb-47fa-981c-16647ebab686)
+
 
 ## Contributing
 

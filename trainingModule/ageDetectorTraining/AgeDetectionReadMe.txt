@@ -1,4 +1,4 @@
-Here's a breakdown of the code and some suggestions for improvement:
+Here's a breakdown of the code and some suggestions for improvement
 
 1. Data Preparation:
 

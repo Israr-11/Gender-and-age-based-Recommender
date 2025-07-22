@@ -3,6 +3,7 @@ Here's a breakdown of the code and some suggestions for improvement
 1. Data Preparation:
 
 The code iterates through the image directory, extracts filenames, splits them to get age and gender labels, loads the images, and converts them to RGB format.
+
 It then converts labels to NumPy arrays and splits the data into training and testing sets for both age and gender prediction (although you only train the age model in this snippet).
 
 

@@ -1,5 +1,6 @@
 Certainly! Here’s a detailed explanation of the modified code for gender detection using a convolutional neural network (CNN):
 
+
 ### 1. Importing Libraries
 Various libraries are imported to handle data manipulation, image processing, neural network construction, and data visualization:
 - **pandas** and **numpy** for handling data structures and numerical operations.
